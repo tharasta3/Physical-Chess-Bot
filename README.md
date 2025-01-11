@@ -1,4 +1,8 @@
 <div align="center">
+  <h1>Physical Chess Bot</h1>
+</div>
+
+<div align="center">
   <a href="https://youtu.be/iiL4xXYcxQk" target="_blank">
     <img src="assets/Chessbotlogo.jpeg" alt="YouTube" width="750" />
   </a>
