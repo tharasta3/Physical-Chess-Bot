@@ -1,0 +1,4 @@
+src/AI_players/__pycache__/
+src/game/__pycache__/
+src/graphic_interface/__pycache__/
+.python-version
