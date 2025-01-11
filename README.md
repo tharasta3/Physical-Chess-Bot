@@ -1,6 +1,6 @@
 # Physical Chess Bot
 <a href="https://youtu.be/iiL4xXYcxQk" target="_blank">
-  <img src="assets/Chessbotlogo.jpeg" alt="YouTube" width="1000" />
+  <img src="assets/Chessbotlogo.jpeg" alt="YouTube" width="750" />
 </a>
 <div align="center">
   <p><strong>Video Demo</strong></p>
