@@ -3,10 +3,12 @@
   <img src="assets/Chessbotlogo.jpeg" alt="YouTube" width="1000" />
 </a>
 <div align="center">
+  <p><strong>Video Demo</strong></p>
   <a href="https://youtu.be/iiL4xXYcxQk" target="_blank">
-    <img src="assets/youtube_logo.png" alt="YouTube" width="300" />
+    <img src="assets/youtube_logo.png" alt="YouTube" width="150" />
   </a>
 </div>
+
 
 
 This repository showcases the Physical Chess Bot, a project that combines robotics and embedded systems to create an interactive and engaging chess-playing experience.
@@ -22,3 +24,4 @@ The project demonstrates expertise in:
 - User-Centric Design: Focusing on intuitive gameplay and interaction.
 
 Explore the code and hardware implementation details to see how advanced control systems, sensor integration, and embedded programming were used to bring this chess bot to life!
+
