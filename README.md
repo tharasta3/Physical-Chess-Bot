@@ -1,4 +1,5 @@
 # Physical-Chess-Bot
+[video]: https://youtu.be/iiL4xXYcxQk
 This repository showcases the Physical Chess Bot, a project that combines robotics and embedded systems to create an interactive and engaging chess-playing experience.
 The bot uses:
 - Linear Actuator with Stepper Motors: For precise movement and microstepping control.
