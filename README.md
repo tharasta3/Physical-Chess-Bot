@@ -3,7 +3,7 @@ This repository showcases the Physical Chess Bot, a project that combines roboti
 The bot uses:
 - Linear Actuator with Stepper Motors: For precise movement and microstepping control.
 - Magnet End-Effector: To manipulate magnetic chess pieces accurately on the board.
-- Sensor Array: To enable real-time tracking of piece movements during gameplay.
+- Reed Sensor Array: To enable real-time tracking of piece movements during gameplay.
 - LCD Interface and Speaker System: Enhancing user interaction and providing clear feedback.
 
 The project demonstrates expertise in:
