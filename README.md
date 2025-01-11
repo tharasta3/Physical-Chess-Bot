@@ -27,6 +27,6 @@ Explore the code and hardware implementation details to see how advanced control
 
 Here is the poster that we presented at the Fall 2024 EECS 373 Project Symposium:
 <div align="center">
-  <img src="assets/ChessBotPoster.png" alt="Chessbot Poster" width="500" />
+  <img src="assets/ChessBotPoster.png" alt="Chessbot Poster" width="300" />
 </div>
 
