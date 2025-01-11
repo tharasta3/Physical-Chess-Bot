@@ -1,6 +1,6 @@
 # Physical-Chess-Bot
 <a href="https://youtu.be/iiL4xXYcxQk" target="_blank">
-  <img src="assets/Chessbotlogo.png" alt="YouTube" width="150" />
+  <img src="assets/Chessbotlogo.jpeg" alt="YouTube" width="150" />
 </a>
 
 This repository showcases the Physical Chess Bot, a project that combines robotics and embedded systems to create an interactive and engaging chess-playing experience.
