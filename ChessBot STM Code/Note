@@ -1,0 +1,1 @@
+Original name for the “ChessBot” folder was “stepmotortest” as we integrated each peripheral into that code until it eventually became our main code, which is why all the iocs and debugs are named as such, however it is the final code and not just some test code.
